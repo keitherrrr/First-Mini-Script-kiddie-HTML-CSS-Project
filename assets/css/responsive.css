@@ -1,0 +1,75 @@
+@media (min-width: 64em){
+
+}
+@media (max-width: 63.9375em){
+    .city-button{
+        padding: 14px 8px; 
+    }
+    .contact-control{
+        padding: 15px; 
+    }
+    .form-submit{
+        padding: 14px 16px; 
+    }
+    .social i{
+        font-size: 40px; 
+    }
+    #footer .copy-right{
+        font-size: 32px; 
+    }
+    .contact-info{
+        line-height: 2; 
+    }
+}
+
+@media (min-width: 46.25em) and (max-width: 63.9375em){
+
+}
+
+@media (max-width: 46.1875em){
+    .mobile-clear{
+        clear: both; 
+    }
+    .mobile-full{
+        width: 100%;
+        margin-top: 32px;  
+    }
+    #header{
+        overflow: hidden; 
+    }
+    #nav{
+        display: block; 
+    }
+    #nav .subnav{
+        padding: 0 45px; 
+        position: initial; 
+        background-color: black; 
+    }
+    #nav .subnav a{
+        color: white; 
+        line-height: 48px;  
+    }
+    #nav .subnav li{
+        height: 48px;  
+    }
+    #nav>li{
+        display: block; 
+    }
+    .search-btn{
+        display: none; 
+    }
+    #header .mobile-menu{
+        display: block; 
+    }
+
+    .content-section .member-item{
+        margin-top: 30px;
+        width: 100%;  
+    }
+    .content-section .member-img{
+        width: 60%; 
+    }
+    .content-section .city-button{
+        text-align: center;
+    }
+}
